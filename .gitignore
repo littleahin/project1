@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/
+
+# 기타 임시 파일
+*.tmp
+*.swp
+*.swo
+
+# 환경설정 파일
+.env
+.env.*
